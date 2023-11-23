@@ -5,7 +5,7 @@
 This boilerplate contains all the tools you need to build a modern web app with TypeScript, React, Vite, and Express.  
 You can use it to quickly bootstrap your project.
 
-ESLint, stylelint, prettier, husky and lintstaged are configured to give you a solid development experience.
+ESLint, stylelint, prettier, and lintstaged are configured to give you a solid development experience.
 
 ## Installing / Developing
 
